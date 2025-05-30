@@ -1,4 +1,4 @@
-# MnistCNN
+# CNN-numpy
 An implementation of convolution nueral network for recognizing hand-written digits using **numpy**. 
 ## Structure
 ![alt text](struct.png)
