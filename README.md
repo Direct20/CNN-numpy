@@ -1,5 +1,5 @@
 # MnistCNN
-An implementation of convolution nueral network for recognizing hand-written digits **without** depending on torch or tensorflow, etc.  
+An implementation of convolution nueral network for recognizing hand-written digits using **numpy**. 
 ## Structure
 ![alt text](struct.png)
 ## How to use
